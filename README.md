@@ -25,19 +25,25 @@
 
 
 # Conclusion
-With the selected parameters you will see in the notebook with the final version of the model, I was able to get a score of 95.5 % AUC.
+With the selected parameters you will see in the notebook with the final version of the model, I was able to get a score of 95.5 % AUC Score.
 
 # Future Recommendations 
-After reviewing the competition results closely, in the near future I would look deeper into the click_time series and see if I can extract more features from it to learn more about this data. I would also like to look into trying a Neuro Net Model to see how it does with such a large and imbalanced dataset. Lastly, I would like to obtain more data that consisted of an increased amount of confirmed app downloads. More data is always a good thing!
+After reviewing the competition results closely, in the near future I would look deeper into the click_time series and see if I can extract more features from it. I would also look into trying a Neuro Net Model to see how it does with such a large and imbalanced dataset. Lastly, I would like to obtain more data that consisted of an increased amount of confirmed app downloads. More data is always a good thing when it comes to teaching your model!
+
 
 # Repository Guide 
 
 ***Link to Data and Competition:***  https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
-With this link you will find the download link for access to the data. Unfortunately the csv file is too large for github to upload. 
+With this link you will find where you can download the data. Unfortunately the csv file is too large for github to upload. But I did provide a sample size of the data for those who are interested. 
+
+***Link to Sample Data:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/sample_csv.csv
+
+***Notebooks:*** In each notebook you will find links to resources used to obtain the code needed to perform my analysis.
+
+***Data Exploring, Cleaning, & Preprocessing Notebook:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step1_DataCleaning_Exploration.ipynb
 
 
-***Notebooks:*** In each notebook you will find link to resources used to obtain the code needed to perform my analysis.
-
+***Modeling Notebook:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step2_BaselineModel_FinalModel.ipynb
 
 
 ***Presentation:***
