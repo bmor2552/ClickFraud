@@ -1,0 +1,6 @@
+# Data folder
+CSV_Files/
+# Jupyter Notebook
+.ipynb_checkpoints
+# iOS DS_Store
+.DS_Store
