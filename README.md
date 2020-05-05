@@ -40,10 +40,10 @@ With this link you will find where you can download the data. Unfortunately the 
 
 ***Notebooks:*** In each notebook you will find links to resources used to obtain the code needed to perform my analysis.
 
-***Data Exploring, Cleaning, & Preprocessing:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step1_DataCleaning_Exploration.ipynb
+***Data Exploring, Cleaning, & Preprocessing Notebook:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step1_DataCleaning_Exploration.ipynb
 
 
-***Modeling:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step2_BaselineModel_FinalModel.ipynb
+***Modeling Notebook:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step2_BaselineModel_FinalModel.ipynb
 
 
 ***Presentation:***
