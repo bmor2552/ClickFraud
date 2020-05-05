@@ -33,11 +33,16 @@ After reviewing the competition results closely, in the near future I would look
 # Repository Guide 
 
 ***Link to Data and Competition:***  https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
-With this link you will find the download link for access to the data. Unfortunately the csv file is too large for github to upload. 
+With this link you will find the download link for access to the data. Unfortunately the csv file is too large for github to upload. But I did provide a sample size of the data for those who are interested. 
 
+***Link to Sample Data:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/sample_csv.csv
 
 ***Notebooks:*** In each notebook you will find link to resources used to obtain the code needed to perform my analysis.
 
+***Data Exploring, Cleaning, & Preprocessing:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step1_DataCleaning_Exploration.ipynb
+
+
+***Modeling:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step2_BaselineModel_FinalModel.ipynb
 
 
 ***Presentation:***
