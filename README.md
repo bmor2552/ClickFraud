@@ -25,10 +25,10 @@
 
 
 # Conclusion
-With the selected parameters you will see in the notebook with the final version of the model, I was able to get a score of 95.5 % AUC Score.
+With the selected parameters you will see in the notebook with the final version of the model, I was able to get a 95.5 % AUC Score.
 
 # Future Recommendations 
-After reviewing the competition results closely, in the near future I would look deeper into the click_time series and see if I can extract more features from it. I would also look into trying a Neuro Net Model to see how it does with such a large and imbalanced dataset. Lastly, I would like to obtain more data that consisted of an increased amount of confirmed app downloads. More data is always a good thing when it comes to teaching your model!
+After reviewing the competition results closely, I would look deeper into the click_time series and see if I can extract more features from it. I would also look into trying a Neuro Net Model to see how it does with such a large and imbalanced dataset. Lastly, I would like to obtain more data. More data is always a good thing when it comes to teaching your model!
 
 
 # Repository Guide 
@@ -38,7 +38,7 @@ With this link you will find where you can download the data. Unfortunately the 
 
 ***Link to Sample Data:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/sample_csv.csv
 
-***Notebooks:*** In each notebook you will find links to resources used to obtain the code needed to perform my analysis.
+***Notebooks:*** In each notebook you will find links to resources used to obtain the code needed to perform data analysis.
 
 ***Data Exploring, Cleaning, & Preprocessing Notebook:*** https://github.com/bmor2552/ClickFraud/blob/master/Notebooks/Step1_DataCleaning_Exploration.ipynb
 
