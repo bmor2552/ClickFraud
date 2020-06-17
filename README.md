@@ -31,7 +31,7 @@ With the selected parameters you will see in the notebook with the final version
 After reviewing the competition results closely, I would look deeper into the click_time series and see if I can extract more features from it. I would also look into trying a Neuro Net Model to see how it does with such a large and imbalanced dataset. Lastly, I would like to obtain more data. More data is always a good thing when it comes to teaching your model!
 
 **Feature importance:** As you can see, the hour column has potential to be broken down into a simpler form. My assumption is that, this will assist the performance of the model. 
-![Feature importance bar graph](https://media-private.canva.com/J4UzY/MAD7aZJ4UzY/1/tl.png?response-expires=Thu%2C%2011%20Jun%202020%2008%3A39%3A11%20GMT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T060808Z&X-Amz-SignedHeaders=host&X-Amz-Expires=9062&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3d1ba0fbc05e71cde2c8244209c38fdb8a2c8a830386f2fd12b9adda72aa3ee5)
+![Feature importance bar graph](fi.png)
 
 # Repository Guide 
 
